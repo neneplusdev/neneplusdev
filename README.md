@@ -52,7 +52,7 @@
 ## 🌱 Currently Learning: 
 <ul>
     <li>React</li>
-    <li>vue JS</li>
+    <li>Vue JS</li>
 </ul>
 
 ## 💬 Ask me about: 
