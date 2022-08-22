@@ -2,7 +2,7 @@
 
 ## Hey <img src="wave.gif" width="30px">, Nice to see you.
 
-<p>Welcome to my page! </br> I'm Nene, Full Stack developer and technical writer from <b>Gujarat, India</b>. Currently working remotely for full time. </p>
+<p>Welcome to my page! </br> I'm Nayana, Full Stack developer and technical writer from <b>Gujarat, India</b>. Currently working remotely for full time. </p>
 
 ## <img src="blob-sunglasses.gif" width="30px"> About Me:
 <ul>
