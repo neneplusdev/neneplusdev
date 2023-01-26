@@ -70,7 +70,7 @@
 
 ## 📫 Get in touch
 [![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:neneplusdev@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/neneplusdev/) 
-[![StackOverflow](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/10001543/nene-p) 
-[![Twitter](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=twitter)](https://twitter.com/nenepdev) 
-[![Instagram](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/neneplusdev/)
+[![Linkedin](https://img.shields.io/badge/-Nayana%20Meruliya-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/neneplusdev/) 
+[![StackOverflow](https://img.shields.io/badge/-Nayana%20Meruliya-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/10001543/nene-p) 
+[![Twitter](https://img.shields.io/badge/-Nayana%20Meruliya-black?style=for-the-badge&logo=twitter)](https://twitter.com/nenepdev) 
+[![Instagram](https://img.shields.io/badge/-Nayana%20Meruliya-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/neneplusdev/)
